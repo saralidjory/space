@@ -33,3 +33,6 @@ load();
 function teste {
   alert("Capital code");
 }
+function teste2 {
+  console.log("Teste 2");
+}
